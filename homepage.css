@@ -1,0 +1,35 @@
+	  	.header1{
+	  	background-image: url(http://placehold.it/1900x1080);
+	  	height: 65vh;
+	  	background-size: cover;
+	  	margin: 0px;
+	  	padding: 0px;
+	  	}
+	  	.headp1{
+	  		font-size: 2.5rem;
+	  		margin-bottom: 1.5rem!important;
+	  		margin-top:1.5rem!important;
+	  		font-weight: 500;
+	  	}
+	  	.headp2{
+	  		font-size: 2rem;
+			margin-bottom: -10px;
+			padding-bottom: 0px;
+			padding-top: 10px;
+			font-weight: 500;	  		
+	  	}
+	  	.headp3{
+	  		font-size: 2rem;
+	  		font-weight: 500;
+	  		line-height: 1.2;
+	  	}
+	  	.cardrow1{
+	  		height: 100%!important;
+	  	}
+	  	.cardpadding{
+	  		padding-top: 15px;
+	  		padding-bottom: 15px;
+	  	}
+	  	.btn-big{
+	  		padding: 30px;
+	  	}
